@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peiyuan Zhu / Personal Homepage"
+title                    : "Peiyuan Zhu"
 title_separator          : "-"
 name                     : &name "Peiyuan Zhu"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "peiyuan3392/peiyuan3392.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Peiyuan Zhu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Mohamed bin Zayed University of Artificial Intelligence"
   location         : "Abu Dhabi, UAE"
