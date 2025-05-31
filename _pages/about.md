@@ -29,7 +29,8 @@ If you share similar interests or want to discuss cool ideas, feel free to conne
 
 
 ## Experiences
-Prior to joining <a href="https://mbzuai.ac.ae">MBZUAI</a>, I obtained my B.Eng. and M.Eng. degrees in Computer Science and Technology from <a href="https://www.tongji.edu.cn">Tongji</a>, supervised by Prof. Jihong Guan (2017–2021), <a href="https://ieeexplore.ieee.org/author/37085508115">Prof. Shengjie Zhao</a>, and <a href="https://ieeexplore.ieee.org/author/37086691124">Prof. Hao Deng</a> (2021–2024). I also conducted research as a visiting student at <a href="https://en.sjtu.edu.cn">SJTU</a>, working with <a href="https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN">Prof. Cailian Chen</a>. Additionally, I completed an industry internship at Huawei's Kunpeng Cloud Division.
+Prior to joining <a href="https://mbzuai.ac.ae">MBZUAI</a>, I obtained my B.Eng. and M.Eng. degrees in Computer Science and Technology from <a href="https://www.tongji.edu.cn">Tongji</a>, supervised by <a href="https://scholar.google.com/citations?user=N2xsxV8AAAAJ&hl=en">Prof. Jihong Guan</a> (2017–2021), <a href="https://ieeexplore.ieee.org/author/37085508115">Prof. Shengjie Zhao</a>, and <a href="https://ieeexplore.ieee.org/author/37086691124">Prof. Hao Deng</a> (2021–2024). I also conducted research as a visiting student at <a href="https://en.sjtu.edu.cn">SJTU</a>, working with <a href="https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN">Prof. Cailian Chen</a>. Additionally, I completed an industry internship at Huawei's Kunpeng Cloud Division.
+
 
 ## Services
 Served as a journal reviewer for the IEEE Transactions on Intelligent Transportation Systems (TITS) and the IEEE Transactions on Geoscience and Remote Sensing (TGRS).
