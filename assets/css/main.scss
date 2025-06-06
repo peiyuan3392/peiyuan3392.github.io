@@ -67,20 +67,20 @@
         order: 1;
         
         // Reduce font sizes for publications
-        font-size: 0.85em; // Overall text size reduction
+        font-size: 1.0em; // Overall text size reduction
         
         a {
-            font-size: 0.9em; // Paper title size
+            font-size: 1.05em; // Paper title size
             font-weight: bold;
         }
         
         p {
-            font-size: 0.8em; // Author names size
+            font-size: 0.95em; // Author names size
             margin-bottom: 0.3em;
         }
         
         em {
-            font-size: 0.75em; // Description size
+            font-size: 0.90em; // Description size
             line-height: 1.4;
         }
     }
