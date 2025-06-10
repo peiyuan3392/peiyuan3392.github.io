@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- 如果定义了分类，就用分类展示 -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -27,10 +27,31 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <h2>Selected Publications</h2><hr />
+  <ul>
+    <li><strong>Flexible Multi-generator Model with Fused Spatiotemporal Graph for Trajectory Prediction</strong><br>
+      P Zhu, F Han, H Deng<br>
+      IET International Radar Conference (IRC 2023), 417-422, 2023
+    </li>
+    <li><strong>Attentive Radiate Graph for Pedestrian Trajectory Prediction in Disconnected Manifolds</strong><br>
+      P Zhu, S Zhao, H Deng, F Han<br>
+      IEEE Transactions on Intelligent Transportation Systems, 2025
+    </li>
+    <li><strong>Controllable Video Generation with Provable Disentanglement</strong><br>
+      Y Shen, P Zhu, Z Li, S Xie, Z Tang, N Deka, Z Liu, G Chen, K Zhang<br>
+      arXiv preprint arXiv:2502.02690, 2025
+    </li>
+    <li><strong>BEAVP: A Bidirectional Enhanced Adversarial Model for Video Prediction</strong><br>
+      P Zhu, S Zhao, F Han, H Deng<br>
+      2024 IEEE 18th International Conference on Automatic Face and Gesture …, 2024
+    </li>
+    <li><strong>Comprehensive Performance Analysis and Evaluation of Building Construction Throughout Its Lifecycle</strong><br>
+      J Zhu, J Zhao, P Tan, L Wei, P Zhu, W Liao, C Lin<br>
+      Tsinghua University Press, ISBN 7302625859, 9787302625858, 2022
+    </li>
+    <li><strong>Robust Estimator based Adaptive Multi-Task Learning</strong><br>
+      P Zhu, C Chen, J He, S Zhu<br>
+      2019 IEEE Symposium Series on Computational Intelligence (SSCI), 740-747, 2019
+    </li>
+  </ul>
 {% endif %}
-
-
-
